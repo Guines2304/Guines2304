@@ -1,4 +1,4 @@
-## Hi there 👋
+## Seja Bem Vindo 👋
 
 <!--
 **Guines2304/Guines2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
