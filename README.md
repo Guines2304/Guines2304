@@ -1,6 +1,5 @@
 ## Seja Bem Vindo Ao Meu Perfil👋
 
-<!--
 Meu Nome é Guilherme Guerra e sou do Brasil.
 
 - 🔭 Tenho empresa de games antigos e sou estudante
